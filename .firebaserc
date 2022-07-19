@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "libre-pharmacy-manager": {
+      "hosting": {
+        "pharmacy-manager": [
+          "libre-pharmacy-manager"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "libre-pharmacy-manager"
+  }
+}
